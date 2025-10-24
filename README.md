@@ -1,7 +1,7 @@
 
 # Mastermind
 
-![Mastermind](Mastermind.jpg)
+![Mastermind](image/Mastermind.jpg)
 
 ## Objectif
 Réaliser un jeu de Mastermind en Python. Le projet propose deux versions possibles :
